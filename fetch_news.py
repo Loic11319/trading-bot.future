@@ -1,6 +1,7 @@
 """Nachrichtenmodul: holt Schlagzeilen, bewertet die Stimmung, schreibt signals/news_signal.json"""
 import json
 import os
+import re
 import time
 from datetime import datetime, timezone
 
@@ -18,8 +19,10 @@ BULL_LIMIT = 0.15          # Schwelle fuer "bullish"
 BEAR_LIMIT = -0.15         # Schwelle fuer "bearish"
 
 # Wenn eines dieser Woerter vorkommt, soll der Handelsbot vorsichtig sein
-EVENT_WORDS = ["fed ", "fomc", "rate decision", "cpi", "inflation report",
-               "jobs report", "nonfarm", "powell", "tariff", "war", "attack"]
+EVENT_PATTERN = re.compile(
+    r"\b(fed|fomc|rate decision|cpi|inflation report|jobs report|nonfarm|powell|tariffs?|war|attack)\b",
+    re.IGNORECASE,
+)
 
 
 def collect_headlines():
@@ -56,7 +59,7 @@ def build_signal(headlines):
     else:
         mood = "neutral"
 
-    events = [h for h in headlines if any(w in h.lower() for w in EVENT_WORDS)]
+        events = [h for h in headlines if EVENT_PATTERN.search(h)]
 
     return {
         "updated_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),

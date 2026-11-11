@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-11T12:51:25+00:00",
-  "headline_count": 23,
-  "avg_score": -0.063,
+  "updated_utc": "2026-11-11T14:58:42+00:00",
+  "headline_count": 26,
+  "avg_score": -0.093,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Fed's Goolsbee calls inflation report 'borderline disturbing' as central bank weighs more hikes"
+  ]
 }

@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-12T03:47:20+00:00",
-  "headline_count": 23,
-  "avg_score": 0.03,
+  "updated_utc": "2026-11-12T04:48:08+00:00",
+  "headline_count": 17,
+  "avg_score": 0.048,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

@@ -1,8 +1,11 @@
 {
-  "updated_utc": "2026-11-12T13:43:33+00:00",
-  "headline_count": 22,
-  "avg_score": -0.064,
+  "updated_utc": "2026-11-12T14:38:10+00:00",
+  "headline_count": 25,
+  "avg_score": -0.079,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Canada’s ambassador warns Trump tariffs are driving up costs, threatening U.S. investment",
+    "10-year Treasury yield jumps back above 5% as oil gains and more Fed rate hikes expected"
+  ]
 }

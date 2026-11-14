@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-14T17:26:56+00:00",
-  "headline_count": 20,
-  "avg_score": -0.032,
+  "updated_utc": "2026-11-14T18:01:52+00:00",
+  "headline_count": 21,
+  "avg_score": 0.114,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "Washington can start delivering on affordability by rejecting Trump’s tariffs"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-14T02:40:42+00:00",
-  "headline_count": 23,
-  "avg_score": -0.073,
+  "updated_utc": "2026-11-14T03:29:40+00:00",
+  "headline_count": 16,
+  "avg_score": -0.135,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "AI risks are the biggest threat to the financial system, Fed survey finds"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

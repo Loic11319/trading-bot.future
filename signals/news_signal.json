@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-16T16:11:51+00:00",
-  "headline_count": 28,
-  "avg_score": -0.003,
+  "updated_utc": "2026-11-16T17:23:21+00:00",
+  "headline_count": 29,
+  "avg_score": -0.004,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’"
+  ]
 }

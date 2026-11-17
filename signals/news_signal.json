@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-17T21:36:10+00:00",
-  "headline_count": 27,
-  "avg_score": -0.118,
+  "updated_utc": "2026-11-17T22:34:45+00:00",
+  "headline_count": 25,
+  "avg_score": -0.136,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

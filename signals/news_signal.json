@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-17T12:37:15+00:00",
-  "headline_count": 24,
-  "avg_score": -0.05,
+  "updated_utc": "2026-11-17T13:55:25+00:00",
+  "headline_count": 28,
+  "avg_score": -0.002,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months"
+  ]
 }

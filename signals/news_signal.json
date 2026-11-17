@@ -1,11 +1,12 @@
 {
-  "updated_utc": "2026-11-17T14:48:29+00:00",
-  "headline_count": 32,
-  "avg_score": 0.018,
+  "updated_utc": "2026-11-17T15:45:16+00:00",
+  "headline_count": 34,
+  "avg_score": -0.081,
   "mood": "neutral",
   "caution": true,
   "event_headlines": [
-    "Lisa Cook lawyer signals Fed gov won't attend Trump committee's hearing",
-    "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months"
+    "Lisa Cook lawyer signals Fed governor won't attend Trump committee's hearing",
+    "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+    "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means"
   ]
 }

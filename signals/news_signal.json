@@ -1,10 +1,12 @@
 {
-  "updated_utc": "2026-11-18T18:29:37+00:00",
-  "headline_count": 34,
-  "avg_score": 0.035,
+  "updated_utc": "2026-11-18T19:31:00+00:00",
+  "headline_count": 35,
+  "avg_score": 0.0,
   "mood": "neutral",
   "caution": true,
   "event_headlines": [
-    "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike"
+    "Fed minutes show growing unease about the outlook for inflation",
+    "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
   ]
 }

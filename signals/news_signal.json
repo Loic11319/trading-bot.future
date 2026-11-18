@@ -1,11 +1,10 @@
 {
-  "updated_utc": "2026-11-18T22:33:03+00:00",
-  "headline_count": 31,
-  "avg_score": 0.042,
+  "updated_utc": "2026-11-18T23:30:00+00:00",
+  "headline_count": 29,
+  "avg_score": 0.032,
   "mood": "neutral",
   "caution": true,
   "event_headlines": [
-    "Fed minutes show growing unease about the outlook for inflation",
     "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
   ]
 }

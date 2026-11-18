@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-18T06:57:25+00:00",
-  "headline_count": 14,
-  "avg_score": -0.005,
+  "updated_utc": "2026-11-18T11:26:58+00:00",
+  "headline_count": 19,
+  "avg_score": -0.118,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Senators press acting U.S. Navy Secretary on Iran war costs, sailor health in confirmation hearing"
+  ]
 }

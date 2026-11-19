@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-19T00:22:32+00:00",
-  "headline_count": 25,
-  "avg_score": -0.031,
+  "updated_utc": "2026-11-19T01:45:52+00:00",
+  "headline_count": 22,
+  "avg_score": -0.021,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

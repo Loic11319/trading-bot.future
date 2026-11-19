@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-19T08:59:55+00:00",
-  "headline_count": 10,
-  "avg_score": -0.122,
+  "updated_utc": "2026-11-19T11:08:25+00:00",
+  "headline_count": 13,
+  "avg_score": -0.014,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage"
+  ]
 }

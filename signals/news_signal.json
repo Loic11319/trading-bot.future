@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-20T08:57:52+00:00",
-  "headline_count": 7,
-  "avg_score": -0.134,
+  "updated_utc": "2026-11-20T09:54:48+00:00",
+  "headline_count": 8,
+  "avg_score": -0.107,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Putin scores ‘massive win’ at first trilateral meeting, rebuilding standing as Ukraine war grinds on"
+  ]
 }

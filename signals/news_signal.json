@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-21T02:25:03+00:00",
-  "headline_count": 17,
-  "avg_score": -0.083,
+  "updated_utc": "2026-11-21T03:13:53+00:00",
+  "headline_count": 12,
+  "avg_score": -0.148,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "Warsh wants Fed officials to talk less. Instead, they’re talking more"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

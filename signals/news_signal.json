@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-23T20:32:22+00:00",
-  "headline_count": 30,
-  "avg_score": 0.102,
+  "updated_utc": "2026-11-23T21:31:45+00:00",
+  "headline_count": 26,
+  "avg_score": 0.121,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation"
+  ]
 }

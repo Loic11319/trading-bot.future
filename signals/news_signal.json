@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-23T16:34:48+00:00",
-  "headline_count": 27,
-  "avg_score": -0.033,
+  "updated_utc": "2026-11-23T17:37:22+00:00",
+  "headline_count": 30,
+  "avg_score": -0.002,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "The U.S. may enter a recession if the Fed raises rates, hedge-fund manager Bill Ackman says"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

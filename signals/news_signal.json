@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-23T09:49:36+00:00",
-  "headline_count": 9,
-  "avg_score": -0.006,
+  "updated_utc": "2026-11-23T10:55:57+00:00",
+  "headline_count": 16,
+  "avg_score": 0.014,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Treasury yields jump as stock futures rebound, investors await New York Fed President Williams speech"
+  ]
 }

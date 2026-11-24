@@ -1,11 +1,8 @@
 {
-  "updated_utc": "2026-11-24T19:16:46+00:00",
-  "headline_count": 32,
-  "avg_score": 0.072,
+  "updated_utc": "2026-11-24T20:20:27+00:00",
+  "headline_count": 30,
+  "avg_score": 0.103,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’",
-    "Fed's John Williams indicates higher interest rates likely 'over time' to address inflation"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

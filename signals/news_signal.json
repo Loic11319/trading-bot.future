@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-24T11:36:41+00:00",
-  "headline_count": 12,
-  "avg_score": 0.051,
+  "updated_utc": "2026-11-24T12:45:05+00:00",
+  "headline_count": 20,
+  "avg_score": 0.066,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Russia accuses NATO member Estonia of hostile actions ‘on the verge of unleashing open war’"
+  ]
 }

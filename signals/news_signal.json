@@ -1,13 +1,12 @@
 {
-  "updated_utc": "2026-11-25T19:28:54+00:00",
-  "headline_count": 29,
-  "avg_score": 0.077,
+  "updated_utc": "2026-11-25T20:24:48+00:00",
+  "headline_count": 26,
+  "avg_score": 0.128,
   "mood": "neutral",
   "caution": true,
   "event_headlines": [
+    "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
     "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-    "How soon Trump’s new tariffs could hit the economy — and your wallet",
-    "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-    "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank"
+    "U.S. proposes new tariffs on 14 trading partners, including China and the EU"
   ]
 }

@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-25T09:51:49+00:00",
-  "headline_count": 7,
-  "avg_score": 0.044,
+  "updated_utc": "2026-11-25T10:51:18+00:00",
+  "headline_count": 8,
+  "avg_score": 0.012,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "This strategist’s bond-trading model is outperforming by a wide margin. The Fed slowing the economy is a good thing, he argues"
+  ]
 }

@@ -1,12 +1,10 @@
 {
-  "updated_utc": "2026-11-25T21:25:59+00:00",
-  "headline_count": 24,
-  "avg_score": 0.096,
+  "updated_utc": "2026-11-25T22:23:59+00:00",
+  "headline_count": 21,
+  "avg_score": 0.008,
   "mood": "neutral",
   "caution": true,
   "event_headlines": [
-    "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates",
-    "Inflation gets worse. Now the Fed has no choice but to raise U.S. interest rates.",
-    "U.S. proposes new tariffs on 14 trading partners, including China and the EU"
+    "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates"
   ]
 }

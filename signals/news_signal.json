@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-25T08:33:15+00:00",
-  "headline_count": 8,
-  "avg_score": -0.049,
+  "updated_utc": "2026-11-25T09:51:49+00:00",
+  "headline_count": 7,
+  "avg_score": 0.044,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

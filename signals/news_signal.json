@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-26T03:39:54+00:00",
-  "headline_count": 21,
-  "avg_score": 0.069,
+  "updated_utc": "2026-11-26T04:46:43+00:00",
+  "headline_count": 18,
+  "avg_score": 0.123,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "How Trump’s latest tariff moves hand India an edge over rival Asian exporters"
+  ]
 }

@@ -1,11 +1,8 @@
 {
-  "updated_utc": "2026-11-26T18:16:02+00:00",
-  "headline_count": 19,
-  "avg_score": 0.096,
+  "updated_utc": "2026-11-26T19:31:37+00:00",
+  "headline_count": 15,
+  "avg_score": 0.106,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "Global stocks rally as investors shrug off U.S. tariffs and AI jitters to 'fish for bargains'",
-    "U.S. tariff-hike threats pile pressure on partners to sign trade deals"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

@@ -1,10 +1,8 @@
 {
-  "updated_utc": "2026-11-25T23:19:13+00:00",
+  "updated_utc": "2026-11-26T00:14:58+00:00",
   "headline_count": 20,
-  "avg_score": 0.077,
+  "avg_score": 0.076,
   "mood": "neutral",
-  "caution": true,
-  "event_headlines": [
-    "The Fed says inflation hasn’t gotten any better ahead of its key December vote to raise rates"
-  ]
+  "caution": false,
+  "event_headlines": []
 }

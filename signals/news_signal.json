@@ -1,8 +1,10 @@
 {
-  "updated_utc": "2026-11-27T03:06:23+00:00",
+  "updated_utc": "2026-11-27T06:40:35+00:00",
   "headline_count": 8,
-  "avg_score": 0.069,
+  "avg_score": 0.127,
   "mood": "neutral",
-  "caution": false,
-  "event_headlines": []
+  "caution": true,
+  "event_headlines": [
+    "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’"
+  ]
 }
